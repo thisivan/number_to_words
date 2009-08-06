@@ -1,0 +1,6 @@
+number_to_words.gemspec
+Manifest
+README.rdoc
+Rakefile
+init.rb
+lib/number_to_words.rb
