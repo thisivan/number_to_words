@@ -1,3 +1,7 @@
+# -*- encoding: utf-8 -*-
+
+require 'number_to_words/version'
+
 module NumberToWords
   module Numeric
     def self.included(recipient)
