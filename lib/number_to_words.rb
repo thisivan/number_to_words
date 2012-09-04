@@ -73,7 +73,7 @@ module NumberToWords
       end
 
       def teens
-        %w[ diez once doce trece cartoce quince dieciseis diecisiete dieciocho diecinueve ]
+        %w[ diez once doce trece catorce quince dieciseis diecisiete dieciocho diecinueve ]
       end
 
       def twenties
